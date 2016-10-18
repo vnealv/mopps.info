@@ -1,6 +1,7 @@
-FORMAT: 1A
+
 
 # MOPPS-API
+This API is build using PHP Laravel. Its build for MOPPS parking application.
 
 # Authentication
 User authentication.
